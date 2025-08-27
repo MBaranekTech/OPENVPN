@@ -25,7 +25,7 @@ Port 1194 open on firewall (UDP) - Forwarding <br>
 ## 📁 openvpn-setup/
 ├── README.md <br>
 ├── server.conf <br>
-├── client-template.ovpn <br>
+├── client1.ovpn <br>
 
 🛠️ Step 1: Install OpenVPN and Easy-RSA
 ```
